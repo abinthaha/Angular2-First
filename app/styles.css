@@ -1,0 +1,10 @@
+h1 {
+    padding: 10px;
+    border: 1px solid red;
+    color: grey;
+    transition: all 0.5s linear;
+}
+h1:hover {
+    color: black;
+    border-color: green;
+}
